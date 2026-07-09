@@ -93,7 +93,7 @@ SarawakGuessr/
 4. Enter your estimated year when the photograph was taken.
 5. Click on the map to choose your guessed location.
 6. Submit your guess.
-7. View the distance between your guess and the correct location.
+7. View your results, including location and year estimation accuracy.
 8. Continue through all rounds and try to achieve the highest possible score.
 
 ---
@@ -129,4 +129,4 @@ This project is licensed under the MIT License.
 
 This project was inspired by the concept of historical location guessing games such as TimeGuessr.
 
-Special thanks to the institutions, archives, libraries, and digital collections that preserve and share Sarawak's historical heritage. The historical photographs and materials used in this project were sourced from publicly available collections, including public domain and open-access resources.
+Special thanks to the institutions, archives, libraries, and digital collections that preserve and share Sarawak's historical heritage.
