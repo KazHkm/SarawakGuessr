@@ -78,9 +78,11 @@ SarawakGuessr/
 │
 ├── sarawakguessr.py       # Main application
 ├── photos.py              # Historical photo database
-├── images/                # Historical photographs used in the game
+├── images/                # Historical photographs and icons
 ├── assets/                # Screenshots and demo GIF
-├── requirements.txt
+├── requirements.txt       # Project dependencies
+├── .gitignore             # Git ignore rules
+├── .gitattributes         # Git attributes
 ├── README.md
 └── LICENSE
 ```
